@@ -30,7 +30,7 @@ public class BreakСamelCase {
             if (chh >= 'A' && chh <= 'Z') {
 
                 if(input.charAt(0)==' '){
-                    System.out.println("xui");
+                    System.out.println("qwe");
                     int i = input.indexOf(chh);
 if(i==0){
 
